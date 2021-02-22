@@ -22,9 +22,6 @@ public class PrintPrimeNums{
 		temp=0; //again set to trmp=0 ,so that again it will check for other number.
 		}
 	}
-	
-	
-	
-	
-	}
+		
+    }
 }
